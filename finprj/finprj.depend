@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1712895008 source:c:\users\dell\desktop\c\finprj\main.c
+	"SDB.h"
+
+1712899007 source:c:\users\dell\desktop\c\finprj\sdb.c
+	"SDB.h"
+
+1712899647 c:\users\dell\desktop\c\finprj\std.h
+
+1712866638 c:\users\dell\desktop\c\finprj\sdb.h
+	"STD.h"
+	<stdio.h>
+	<stdlib.h>
+
+1712755998 c:\users\dell\desktop\c\finprj\sdb.c
+	"SDB.h"
+
+1712899297 source:c:\users\dell\desktop\c\finprj\sdbapp.c
+	"SDB.h"
+
